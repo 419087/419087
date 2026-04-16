@@ -1,6 +1,4 @@
 ## Hi there 👋, I'm shirokuro!
-
-## Portfolio
 My Portfolio is [here](https://419087.github.io/shirokuro-portfolio/)!
 
 <!--
